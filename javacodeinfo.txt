@@ -1,0 +1,4 @@
+java follow camel case 
+variable with single word follow lower case and two words ,first wordsmall and second word first letter capital.
+
+
