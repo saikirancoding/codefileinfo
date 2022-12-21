@@ -1,4 +1,4 @@
 java follow camel case 
 variable with single word follow lower case and two words ,first wordsmall and second word first letter capital.
 
-
+class name First letter capital and if other words then also first letter capital
